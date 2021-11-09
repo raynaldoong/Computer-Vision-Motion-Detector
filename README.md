@@ -3,7 +3,7 @@ The purpose of this project is to further solidify my knowledge on video process
 
 # Project Methodology 
 1. Check if the camera works, when camera turns on it captures the first frame as reference 
-<img src="schema.png" alt="query2" width="800"/>
+<img src="images/color frame.png" alt="test" width="800"/>
 3. Refreshes frame every 1 ms
 4. Creates a Gray Frame and makes frame blury to make it insensitive to small changes
 <img src="schema.png" alt="query2" width="800"/>
