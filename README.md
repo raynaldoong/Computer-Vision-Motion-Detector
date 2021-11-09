@@ -16,3 +16,13 @@ The purpose of this project is to further solidify my knowledge on video process
 12. Tracks every changes in motion from Threshold Frame, plot a barchart using Bokeh 
 <img src="schema.png" alt="query2" width="800"/>
 14. Press q to exit 
+
+# Project Respository Files
+## Capture.py
+A python file consisting the codes for video processing
+## Graph1.html
+An HTML file consisting the code needed to load Bokeh Graph to browser
+## Plotting.py
+A ptython file consisting the codes for data visualisation
+## Times.csv
+A CSV file that tracks the start and end time when motion is detected
